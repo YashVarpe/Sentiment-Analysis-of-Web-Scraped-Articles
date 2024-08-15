@@ -6,7 +6,7 @@ This repository contains a sentiment analysis project that involves web scraping
 Project Overview
 The objective of this project is to extract article content from given URLs and perform text analysis to calculate several key variables. The process includes data extraction, text cleaning, and sentiment analysis using Python.
 
-Key Steps
+Key Steps:
   1. Data Extraction
   2. Text Cleaning
   3. Sentiment Analysis
